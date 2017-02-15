@@ -1,0 +1,3 @@
+#gibran_muhammad_fajar_wisesa
+
+this week, my task is git, cli and scripting
