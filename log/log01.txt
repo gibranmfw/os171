@@ -1,6 +1,11 @@
 w01-170214-10-LR-About: IPR & Scripting, From: Lecturer
 w01-170214-10-LR-About: IPR & Scripting, From: Lecturer
 w01-170214-11-LR-About: IPR & Scripting, From: Lecturer
+w01-170214-11-LR-About: IPR & Scripting, From: Lecturer
 w01-170215-14-PS-About: Doing lab task
 w01-170215-21-PS-About: Doing lab task
 w01-170215-21-PS-About: Doing lab task
+w01-170216-10-LR-About: Scripting, From : Lecturer
+w01-170216-10-LR-About: Scripting, From : Lecturer
+w01-170216-11-LR-About: Scripting, From : Lecturer
+w01-170216-11-LR-About: Scripting, From : Lecturer
