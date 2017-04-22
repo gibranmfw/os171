@@ -10,3 +10,5 @@ w07-170422-7-PS-About: Assignment week07
 w07-170422-7-PS-About: Assignment week07
 w07-170422-8-PS-About: Assignment week07
 w07-170422-8-PS-About: Assignment week07
+w07-170422-12-PS-About: Assignment week07
+w07-170422-12-PS-About: Assignment week07
