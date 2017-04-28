@@ -1,0 +1,9 @@
+w08-170425-10-LR-About: Scheduling, From:Lecturer
+w07-170425-10-LR-About: Scheduling, From:Lecturer
+w07-170425-11-LR-About: Scheduling, From:Lecturer
+w07-170426-13-PS-About: Assignment week07
+w07-170426-13-PS-About: Assignment week07
+w07-170427-10-LR-About: Scheduling & File, From:Lecturer
+w07-170427-10-LR-About: Scheduling & File, From:Lecturer
+w07-170427-11-LR-About: Scheduling & File, From:Lecturer
+w07-170429-06-PS-About: Assignment week07
