@@ -5,3 +5,7 @@ w11-170519-23-PS-About: Assignment week10
 w11-170520-6-PS-About: Assignment week10
 w11-170520-6-PS-About: Assignment week10
 w11-170520-7-PS-About: Assignment week10
+w11-170520-17-PS-About: Assignment week10
+w11-170520-17-PS-About: Assignment week10
+w11-170520-18-PS-About: Assignment week10
+
